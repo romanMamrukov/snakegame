@@ -70,6 +70,11 @@ body {
   width: 80px;
 }
 
+footer {
+  text-align: center;
+  font-size: 12px;
+}
+
 @media only screen and (max-width: 600px) {
   .retro-text {
     font-size: 20px;
@@ -116,5 +121,9 @@ body {
 
   .mobile-control-button {
     width: 70px;
+  }
+
+  footer {
+    font-size: 8px;
   }
 }
